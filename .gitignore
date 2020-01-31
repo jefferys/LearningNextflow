@@ -1,0 +1,12 @@
+# Git ignore file for Jefferys/LearningNextflow
+
+# Committed to allow easy regeneration of general development environment from
+# the repo. Files specific to individual users will be excluded.
+
+# R 
+.Rhistory
+.RData
+.Rprofile
+
+# RStudio development environment
+.Rproj.user
