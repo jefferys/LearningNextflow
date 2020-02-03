@@ -10,3 +10,10 @@
 
 # RStudio development environment
 .Rproj.user
+
+# Nextflow stuff
+**/work
+**/.nextflow*
+
+# Markdown
+**/*.html
