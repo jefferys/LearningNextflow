@@ -17,3 +17,7 @@
 
 # Markdown
 **/*.html
+
+# Output
+**/out.*
+**/*.out
